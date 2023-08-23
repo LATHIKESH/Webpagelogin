@@ -1,0 +1,63 @@
+.container{
+    border: solid;
+    margin: 500px;
+    border-radius: 20px;
+    background-color: rgb(249, 198, 207);
+    margin-top: 250px;
+    margin-bottom: 0%;
+}
+.topic{
+    font-size:larger;
+    text-align: center;
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.hd{
+    padding-top: 20px;
+}
+.hdd{
+    padding-top: 20px;
+}
+.identity{
+    padding-top: 20px;
+}
+.fdd{
+    padding-top: 20px;;
+}
+.fg{
+    padding-top: 20px;
+}
+.but{
+    padding-top: 20px;
+    text-align: center;
+}
+.rlog{
+    padding-top: 20px;
+    text-align: center;
+}
+input[type=text]{
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+input[type=date]{
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+input[type=password]{
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+#yes{
+    background-color: green;
+}
+#Cancel{
+    background-color: red;
+}
+body{
+    background-image: url("image/signup.png");
+    height=100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+}

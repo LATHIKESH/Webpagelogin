@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Signup</title>
+        </head>
+    <link rel="stylesheet"  type="text/css"  href="signupstyle.css">
+    <body>
+            <form class="container" >
+                <p class="topic"><b>Start your Experience</b></p>
+                <div class="hd">
+                   <label for="fname">FirstName</label><input type="text" name="fname" placeholder="Name">
+                   <label for="sname">SureName</label><input type="text"  name="sname" placeholder="LastName" maxlength="2">
+                </div>
+                <div class="hdd">
+                    <label>Date Of Birth</label>
+                    <input type="date" name="dob" require>
+                </div>
+                <div class="identity">
+                    Gender:
+                    <dd>
+                    Male<input type="radio" name="Gender">
+                    Female<input type="radio" name="Gender">
+                </dd></div>
+                <div class="fdd">
+                    <label>Email-ID</label>
+                    <input type="text" name="mail" placeholder="Mail" required>
+                    <label>Password</label>
+                    <input type="password" name="pass" placeholder="Password" required>
+                </div>
+                <div class="fg">
+                    <label>Mobile no</label>
+                    <input type="text" name="mobno" placeholder="00-0000-0000">
+                </div>
+                <div class="but">
+                    <button id="yes" onclick="window.location.href = 'login.html';">Signup</button>
+                    <button id="Cancel">Cancel</button>
+                </div>
+                <div class="rlog">
+                    Already have an account?<a href="login.html">Login</a>
+                </div>
+                
+            </form>
+        </div>
+    </body>
+</html>
