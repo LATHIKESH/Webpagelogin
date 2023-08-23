@@ -8,4 +8,6 @@ I have just created a login page with common fields typically found on such page
 I have applied coloring, styles, and various decorations using CSS. This enhances the styling of your web page, allowing for a wide range of decorative and stylistic options.
 
 I have included the source code for the login page in an HTML file named "login.html," and the corresponding CSS styles for the login page are contained in the "loginstyle.css" file.
+![image](https://github.com/LATHIKESH/Webpagelogin/assets/118517819/256cfc80-7152-4022-a4da-9d20ae18c3e2)
+
 ## Signup page
