@@ -1,0 +1,91 @@
+body{
+    color: aliceblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.border{
+    border :5px solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-size:larger;
+    border-style:;
+    border-color: rgba(30, 29, 29, 0);
+    box-shadow: 0 0 20px rgb(60, 59, 59);
+    border-radius: 30px;
+    float:right;
+    margin-right:100px;
+   backdrop-filter: blur(5px);
+}
+button{
+    border:s;
+    background-color:green;
+    border-radius: 5px;
+    width:200px;
+}
+.rem{
+    float: left;
+}
+.signup{
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.Main{
+    font-size: large;
+}
+input[type=text]
+{
+    
+    border-radius: 5px;
+    background-color: aqua;
+    margin border-bottom: 200px;
+}
+input[type=password]
+{
+    border-radius:5px;
+    background-color: aqua;
+}
+.forgbd{
+    color: black;
+}
+.restbt{
+    background-color: blue;
+    width: 100%;
+}
+.forgbd{
+    margin:500px
+}
+.sdhd{
+    font-size: 90px;
+    padding-top:20px;
+    float:left;
+    padding-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.login{
+    margin-top: 200px;
+    margin-bottom: 0%;
+}
+
+.book{
+    text-align: center;
+    border:  solid  ;
+    width: 100;
+    height: 100;
+    border-radius: 5px;
+    background-image:url("image/tour1.jpg ");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    font-size:90px;
+    margin-top: 250px;
+
+}
