@@ -19,3 +19,6 @@ In addition to HTML, I've utilized CSS to apply visually appealing colors, style
 I have include the source code for the signup page in an HTML file named "signup.html" ant the corresponding CSS styles for the signup page are contained in the "signupstyle.css".
 
 ![image](https://github.com/LATHIKESH/Webpagelogin/assets/118517819/0194295f-6c2b-44f7-8879-439ceb7149f1)
+
+## Forgot Password
+
